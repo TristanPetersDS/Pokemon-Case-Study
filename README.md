@@ -32,3 +32,9 @@ Every generation has its strengths — and the data proves that Gen 1 isn’t al
 - [Kaggle Pokémon Dataset](https://www.kaggle.com/abcsds/pokemon)
 - Springboard Data Science Program
 
+
+## License
+
+The code I wrote is released under the [MIT License](LICENSE). It does not
+cover Springboard's exercise text or the datasets, which keep their own
+terms.
